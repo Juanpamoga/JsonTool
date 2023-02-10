@@ -1,11 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Id": 1,
+  "name": "Juan",
+  "deck": [1,2,3,4,5]  
 }
